@@ -1,0 +1,368 @@
+﻿language,pattern,pat_complete,complete,stemmed,stemComplete,english,en_stemmed
+sv,renew,renewable,förnybar,förnyb,förnybar,renewable,renew
+sv,renew,renewable,förnybara,förnybar,förnybara,renewable,renew
+sv,emiss,emissions,utsläppen,utsläpp,utsläppen,emissions,emiss
+sv,emiss,emissions,utsläpp,utsläpp,utsläppen,emissions,emiss
+sv,climat,climate,klimatsmarta,klimatsmart,klimatsmarta,climatesmart,climatesmart
+sv,climat,climate,klimatpåverkan,klimatpåverkan,klimatpåverkan,climate influences,climate influ
+sv,climat,climate,klimatförändringarna,klimatförändring,klimatförändringarna,climate change,climate chang
+sv,climat,climate,klimatpolitik,klimatpolitik,klimatpolitik,climate policy,climate polici
+sv,climat,climate,klimatet,klimatet,klimatet,the climate,the clim
+sv,climat,climate,klimatutsläppen,klimatutsläpp,klimatutsläpp,climate emissions,climate emiss
+sv,climat,climate,klimatutsläpp,klimatutsläpp,klimatutsläpp,climate emissions,climate emiss
+sv,climat,climate,klimatsmart,klimatsmart,klimatsmarta,climatesmart,climatesmart
+sv,climat,climate,klimathotet,klimathotet,klimathotet,climate threat,climate threat
+sv,climat,climate,klimatförändringar,klimatförändring,klimatförändringarna,climate change,climate chang
+sv,climat,climate,klimat,klim,klimat,climate,climat
+sv,climat,climate,klimat-,klimat-,klimat-,climate-,climate-
+sv,climat,climate,klimatförändringarnas,klimatförändring,klimatförändringarna,climate change,climate chang
+sv,climat,climate,klimatpolitiken,klimatpolitik,klimatpolitik,climate policy,climate polici
+sv,climat,climate,klimatförändring,klimatförändring,klimatförändringarna,climate change,climate chang
+sv,climat,climate,klimatförändringen,klimatförändring,klimatförändringarna,climate change,climate chang
+sv,climat,climate,klimatmål,klimatmål,klimatmålen,climate goals,climate go
+sv,climat,climate,klimatmålen,klimatmål,klimatmålen,climate goals,climate go
+sv,greenhous,greenhouse,NA,NA,NA,NA,NA
+sv,co2,co2,NA,NA,NA,NA,NA
+sv,carbon,carbon,koldioxid,koldioxid,koldioxid,carbon dioxide,carbon dioxid
+sv,carbon,carbon,koldioxidutsläpp,koldioxidutsläpp,koldioxidutsläpp,carbon dioxide emissions,carbon dioxide emiss
+sv,carbon,carbon,koldioxidutsläppen,koldioxidutsläpp,koldioxidutsläpp,carbon dioxide emissions,carbon dioxide emiss
+sv,kyoto,kyoto,NA,NA,NA,NA,NA
+sv,fossil,fossil,fossila,fossil,fossila,fossil,fossil
+sv,fossil,fossil,fossil,fossil,fossila,fossil,fossil
+no,renew,renewable,fornybar,fornyb,fornybar,renewable,renew
+no,renew,renewable,fornybare,fornybar,fornybare,renewable,renew
+no,emiss,emissions,utslipp,utslipp,utslipp,emissions,emiss
+no,emiss,emissions,utslippene,utslipp,utslipp,emissions,emiss
+no,emiss,emissions,utslippet,utslipp,utslipp,emissions,emiss
+no,climat,climate,klimaendringer,klimaendring,klimaendringene,climate change,climate chang
+no,climat,climate,klimaendringene,klimaendring,klimaendringene,climate change,climate chang
+no,climat,climate,klimaendringenes,klimaendring,klimaendringene,climate change,climate chang
+no,climat,climate,klimaendringane,klimaendring,klimaendringene,climate change,climate chang
+no,greenhous,greenhouse,klimagassutslipp,klimagassutslipp,klimagassutslipp,greenhouse gas emissions,greenhouse gas emiss
+no,greenhous,greenhouse,klimagassutslippene,klimagassutslipp,klimagassutslipp,greenhouse gas emissions,greenhouse gas emiss
+no,greenhous,greenhouse,klimagasser,klimagass,klimagasser,greenhouse gases,greenhouse gas
+no,greenhous,greenhouse,klimagassen,klimagass,klimagasser,greenhouse gases,greenhouse gas
+no,greenhous,greenhouse,klimagassene,klimagass,klimagasser,greenhouse gases,greenhouse gas
+no,greenhous,greenhouse,klimagass,klimagass,klimagasser,greenhouse gases,greenhouse gas
+no,greenhous,greenhouse,klimagassar,klimagass,klimagasser,greenhouse gases,greenhouse gas
+no,co2,co2,co2,co2,co2,co2,co2
+no,carbon,carbon,NA,NA,NA,NA,NA
+no,kyoto,kyoto,NA,NA,NA,NA,NA
+no,fossil,fossil,fossil,fossil,fossil,fossil,fossil
+no,fossil,fossil,fossile,fossil,fossil,fossil,fossil
+no,fossil,fossil,fossiler,fossil,fossil,fossil,fossil
+da,renew,renewable,vedvarende,vedvar,vedvarende,renewable,renew
+da,emiss,emissions,co2-udledningen,co2-udledning,co2-udledning,CO2 emissions,CO2 emiss
+da,emiss,emissions,co2-udledning,co2-udledning,co2-udledning,CO2 emissions,CO2 emiss
+da,emiss,emissions,udledningen,udledning,udledningen,emissions,emiss
+da,emiss,emissions,udledningerne,udledning,udledningen,emissions,emiss
+da,emiss,emissions,udledninger,udledning,udledningen,emissions,emiss
+da,emiss,emissions,udledning,udledning,udledningen,emissions,emiss
+da,climat,climate,klima,klima,klima,climate,climat
+da,climat,climate,klimaforandringer,klimaforandring,klimaforandringerne,climate change,climate chang
+da,climat,climate,klimaet,klima,klima,climate,climat
+da,climat,climate,klimaforandringerne,klimaforandring,klimaforandringerne,climate change,climate chang
+da,greenhous,greenhouse,klimagasser,klimagas,klimagasser,greenhouse gases,greenhouse gas
+da,co2,co2,NA,NA,NA,NA,NA
+da,carbon,carbon,NA,NA,NA,NA,NA
+da,kyoto,kyoto,NA,NA,NA,NA,NA
+da,fossil,fossil,NA,NA,NA,NA,NA
+fi,renew,renewable,uusiutuvien,uusiutuv,uusiutuvan,renewable,renew
+fi,renew,renewable,uusiutuvan,uusiutuv,uusiutuvan,renewable,renew
+fi,renew,renewable,uusiutuvaan,uusiutuv,uusiutuvan,renewable,renew
+fi,renew,renewable,uusiutuviin,uusiutuv,uusiutuvan,renewable,renew
+fi,renew,renewable,uusiutuvaa,uusiutuv,uusiutuvan,renewable,renew
+fi,renew,renewable,uusiutuvilla,uusiutuv,uusiutuvan,renewable,renew
+fi,renew,renewable,uusiutuvista,uusiutuv,uusiutuvan,renewable,renew
+fi,renew,renewable,uusiutuvia,uusiutuv,uusiutuvan,renewable,renew
+fi,renew,renewable,uusiutuvat,uusiutuv,uusiutuvan,renewable,renew
+fi,renew,renewable,uusiutuva,uusiutuv,uusiutuvan,renewable,renew
+fi,emiss,emissions,päästöjen,päästöj,päästöjen,emissions,emiss
+fi,emiss,emissions,päästöjä,päästöj,päästöjen,emissions,emiss
+fi,emiss,emissions,päästövähennykset,päästövähennyks,päästövähennyksiä,emission reductions,emission reduct
+fi,emiss,emissions,päästöihin,päästö,päästöistä,emissions,emiss
+fi,emiss,emissions,päästöistä,päästö,päästöistä,emissions,emiss
+fi,emiss,emissions,päästöt,päästö,päästöistä,emissions,emiss
+fi,emiss,emissions,päästövähennyksiä,päästövähennyks,päästövähennyksiä,emission reductions,emission reduct
+fi,emiss,emissions,vähäpäästöisiin,vähäpäästö,vähäpäästöistä,low-emission,low-emiss
+fi,emiss,emissions,päästövähennyksiin,päästövähennyks,päästövähennyksiä,emission reductions,emission reduct
+fi,emiss,emissions,vähäpäästöistä,vähäpäästö,vähäpäästöistä,low-emission,low-emiss
+fi,emiss,emissions,päästöjensä,päästöj,päästöjen,emissions,emiss
+fi,emiss,emissions,päästöille,päästö,päästöistä,emissions,emiss
+fi,climat,climate,ilmastonmuutokseen,ilmastonmuutoks,ilmastonmuutoksen,climate change,climate chang
+fi,climat,climate,ilmastonmuutos,ilmastonmuutos,ilmastonmuutos,climate Change,climate Chang
+fi,climat,climate,ilmastopolitiikassa,ilmastopolitiik,ilmastopolitiikassa,climate policy,climate polici
+fi,climat,climate,ilmastopolitiikalla,ilmastopolitiik,ilmastopolitiikassa,climate policy,climate polici
+fi,climat,climate,ilmaston,ilmasto,ilmaston,climate,climat
+fi,climat,climate,ilmastolaki,ilmastolak,ilmastolaki,climate law,climate law
+fi,climat,climate,ilmastosopimuksen,ilmastosopimuks,ilmastosopimuksen,Convention on climate Change,Convention on climate Chang
+fi,climat,climate,ilmastonmuutoksen,ilmastonmuutoks,ilmastonmuutoksen,climate change,climate chang
+fi,climat,climate,ilmastopolitiikan,ilmastopolitiik,ilmastopolitiikassa,climate policy,climate polici
+fi,climat,climate,ilmastomme,ilmasto,ilmaston,climate,climat
+fi,climat,climate,ilmastoa,ilmasto,ilmaston,climate,climat
+fi,climat,climate,ilmastolakiin,ilmastolak,ilmastolaki,climate law,climate law
+fi,climat,climate,ilmastosopimuksessa,ilmastosopimuks,ilmastosopimuksen,Convention on climate Change,Convention on climate Chang
+fi,climat,climate,ilmastosta,ilmasto,ilmaston,climate,climat
+fi,climat,climate,ilmastonmuutoksesta,ilmastonmuutoks,ilmastonmuutoksen,climate change,climate chang
+fi,greenhous,greenhouse,NA,NA,NA,NA,NA
+fi,co2,co2,NA,NA,NA,NA,NA
+fi,carbon,carbon,hiilineutraalia,hiilineutraal,hiilineutraali,carbon neutral,carbon neutr
+fi,carbon,carbon,hiilineutraalien,hiilineutraal,hiilineutraali,carbon neutral,carbon neutr
+fi,carbon,carbon,hiilineutraali,hiilineutraal,hiilineutraali,carbon neutral,carbon neutr
+fi,kyoto,kyoto,NA,NA,NA,NA,NA
+fi,fossil,fossil,NA,NA,NA,NA,NA
+nl,renew,renewable,NA,NA,NA,NA,NA
+nl,emiss,emissions,uitstoot,uitstot,uitstoot,emissions,emiss
+nl,emiss,emissions,uitstoten,uitstot,uitstoot,emissions,emiss
+nl,climat,climate,klimaat,klimat,klimaat,climate,climat
+nl,greenhous,greenhouse,broeikasgassen,broeikasgass,broeikasgassen,greenhouse gases,greenhouse gas
+nl,co2,co2,co2,co2,co2,co2,co2
+nl,carbon,carbon,NA,NA,NA,NA,NA
+nl,kyoto,kyoto,NA,NA,NA,NA,NA
+nl,fossil,fossil,NA,NA,NA,NA,NA
+fr,renew,renewable,renouvelables,renouvel,renouvelables,renewable,renew
+fr,renew,renewable,renouvelable,renouvel,renouvelables,renewable,renew
+fr,renew,renewable,renouvellement,renouvel,renouvelables,renewable,renew
+fr,emiss,emissions,NA,NA,NA,NA,NA
+fr,climat,climate,climat,climat,climatique,climatic,climat
+fr,climat,climate,climatiques,climat,climatique,climatic,climat
+fr,climat,climate,climatique,climat,climatique,climatic,climat
+fr,greenhous,greenhouse,NA,NA,NA,NA,NA
+fr,co2,co2,NA,NA,NA,NA,NA
+fr,carbon,carbon,NA,NA,NA,NA,NA
+fr,kyoto,kyoto,NA,NA,NA,NA,NA
+fr,fossil,fossil,NA,NA,NA,NA,NA
+de,renew,renewable,erneuerbaren,erneuerbar,erneuerbaren,renewable,renew
+de,renew,renewable,erneuerbarer,erneuerbar,erneuerbaren,renewable,renew
+de,renew,renewable,erneuerbare,erneuerbar,erneuerbaren,renewable,renew
+de,renew,renewable,erneuerbar,erneuerbar,erneuerbaren,renewable,renew
+de,renew,renewable,erneuerbarem,erneuerbar,erneuerbaren,renewable,renew
+de,renew,renewable,erneuerbares,erneuerbar,erneuerbaren,renewable,renew
+de,emiss,emissions,NA,NA,NA,NA,NA
+de,climat,climate,klimaschutz,klimaschutz,klimaschutz,climate protection,climate protect
+de,climat,climate,klimawandels,klimawandel,klimawandel,climate change,climate chang
+de,climat,climate,klimawandel,klimawandel,klimawandel,climate change,climate chang
+de,climat,climate,klimaschutzes,klimaschutz,klimaschutz,climate protection,climate protect
+de,greenhous,greenhouse,NA,NA,NA,NA,NA
+de,co2,co2,NA,NA,NA,NA,NA
+de,carbon,carbon,NA,NA,NA,NA,NA
+de,kyoto,kyoto,NA,NA,NA,NA,NA
+de,fossil,fossil,fossiles,fossil,fossilen,fossil,fossil
+de,fossil,fossil,fossilen,fossil,fossilen,fossil,fossil
+de,fossil,fossil,fossiler,fossil,fossilen,fossil,fossil
+de,fossil,fossil,fossile,fossil,fossilen,fossil,fossil
+it,renew,renewable,rinnovabili,rinnov,rinnovabili,renewable,renew
+it,renew,renewable,rinnovato,rinnov,rinnovabili,renewable,renew
+it,renew,renewable,rinnovabile,rinnov,rinnovabili,renewable,renew
+it,renew,renewable,rinnovo,rinnov,rinnovabili,renewable,renew
+it,renew,renewable,rinnovati,rinnov,rinnovabili,renewable,renew
+it,renew,renewable,rinnovare,rinnov,rinnovabili,renewable,renew
+it,renew,renewable,rinnovi,rinnov,rinnovabili,renewable,renew
+it,emiss,emissions,emissioni,emission,emissioni,emissions,emiss
+it,emiss,emissions,emissione,emission,emissioni,emissions,emiss
+it,climat,climate,climatici,climat,climatici,climate,climat
+it,climat,climate,climatico,climat,climatici,climate,climat
+it,climat,climate,climatica,climat,climatici,climate,climat
+it,climat,climate,climatiche,climat,climatici,climate,climat
+it,greenhous,greenhouse,NA,NA,NA,NA,NA
+it,co2,co2,NA,NA,NA,NA,NA
+it,carbon,carbon,NA,NA,NA,NA,NA
+it,kyoto,kyoto,NA,NA,NA,NA,NA
+it,fossil,fossil,NA,NA,NA,NA,NA
+es,renew,renewable,renovación,renov,renovables,renewable,renew
+es,renew,renewable,renovables,renov,renovables,renewable,renew
+es,renew,renewable,renovable,renov,renovables,renewable,renew
+es,renew,renewable,renovar,renov,renovables,renewable,renew
+es,renew,renewable,renove,renov,renovables,renewable,renew
+es,renew,renewable,renovada,renov,renovables,renewable,renew
+es,emiss,emissions,emisiones,emision,emisiones,emissions,emiss
+es,emiss,emissions,emisión,emision,emisiones,emissions,emiss
+es,climat,climate,climático,climat,climático,climate,climat
+es,climat,climate,climáticos,climat,climático,climate,climat
+es,climat,climate,climáticas,climat,climático,climate,climat
+es,climat,climate,climática,climat,climático,climate,climat
+es,greenhous,greenhouse,NA,NA,NA,NA,NA
+es,co2,co2,NA,NA,NA,NA,NA
+es,carbon,carbon,NA,NA,NA,NA,NA
+es,kyoto,kyoto,NA,NA,NA,NA,NA
+es,fossil,fossil,NA,NA,NA,NA,NA
+gl,renew,renewable,renovables,renov,renovables,renewable,renew
+gl,emiss,emissions,emisiones,emision,emisiones,emissions,emiss
+gl,climat,climate,climático,climático,climático,climate,climat
+gl,climat,climate,climàtic,climàtic,climàtic,climate,climat
+gl,climat,climate,climàtics,climàtic,climàtic,climate,climat
+gl,greenhous,greenhouse,invernadero,invernadero,invernadero,greenhouse,greenhous
+gl,co2,co2,NA,NA,NA,NA,NA
+gl,carbon,carbon,NA,NA,NA,NA,NA
+gl,kyoto,kyoto,kyoto,kyoto,kyoto,kyoto,kyoto
+gl,fossil,fossil,NA,NA,NA,NA,NA
+ca,renew,renewable,renovable,renovab,renovables,renewable,renew
+ca,renew,renewable,renovables,renovab,renovables,renewable,renew
+ca,emiss,emissions,emisiones,emision,emisiones,emissions,emiss
+ca,emiss,emissions,emisión,emision,emisiones,emissions,emiss
+ca,climat,climate,climático,climatic,climático,climate,climat
+ca,greenhous,greenhouse,invernadero,invernader,invernadero,greenhouse,greenhous
+ca,greenhous,greenhouse,invernaderos,invernader,invernadero,greenhouse,greenhous
+ca,co2,co2,co2,co2,co2,co2,co2
+ca,carbon,carbon,NA,NA,NA,NA,NA
+ca,kyoto,kyoto,NA,NA,NA,NA,NA
+ca,fossil,fossil,NA,NA,NA,NA,NA
+el,renew,renewable,ανανεώσιμων,ανανεωσιμ,ανανεώσιμων,renewable,renew
+el,renew,renewable,ανανεώσιμες,ανανεωσιμ,ανανεώσιμων,renewable,renew
+el,renew,renewable,ανανεώσιμές,ανανεωσιμ,ανανεώσιμων,renewable,renew
+el,renew,renewable,ανανεώσιμη,ανανεωσιμ,ανανεώσιμων,renewable,renew
+el,emiss,emissions,εκπομπές,εκπομπ,εκπομπών,emissions,emiss
+el,emiss,emissions,εκπομπών,εκπομπ,εκπομπών,emissions,emiss
+el,emiss,emissions,εκπομπή,εκπομπ,εκπομπών,emissions,emiss
+el,emiss,emissions,εκπομπής,εκπομπ,εκπομπών,emissions,emiss
+el,climat,climate,NA,NA,NA,NA,NA
+el,greenhous,greenhouse,NA,NA,NA,NA,NA
+el,co2,co2,NA,NA,NA,NA,NA
+el,carbon,carbon,NA,NA,NA,NA,NA
+el,kyoto,kyoto,NA,NA,NA,NA,NA
+el,fossil,fossil,NA,NA,NA,NA,NA
+pt,renew,renewable,renovável,renov,renováveis,renewable,renew
+pt,renew,renewable,renováveis,renov,renováveis,renewable,renew
+pt,renew,renewable,renovação,renov,renováveis,renewable,renew
+pt,renew,renewable,renovar,renov,renováveis,renewable,renew
+pt,emiss,emissions,emissões,emissõ,emissões,emissions,emiss
+pt,climat,climate,climática,climát,climáticas,climatic,climat
+pt,climat,climate,climáticas,climát,climáticas,climatic,climat
+pt,climat,climate,climático,climát,climáticas,climatic,climat
+pt,climat,climate,climáticos,climát,climáticas,climatic,climat
+pt,greenhous,greenhouse,estufa,estuf,estufa,greenhouse,greenhous
+pt,co2,co2,NA,NA,NA,NA,NA
+pt,carbon,carbon,carbono,carbon,carbono,carbon,carbon
+pt,carbon,carbon,carbon,carbon,carbono,carbon,carbon
+pt,kyoto,kyoto,NA,NA,NA,NA,NA
+pt,fossil,fossil,fósseis,fóss,fósseis,fossils,fossil
+en,renew,renewable,renewable,renew,renewable,renewable,renew
+en,renew,renewable,renewables,renew,renewable,renewable,renew
+en,renew,renewable,renewal,renew,renewable,renewable,renew
+en,renew,renewable,renewed,renew,renewable,renewable,renew
+en,emiss,emissions,emissions,emiss,emissions,emissions,emiss
+en,emiss,emissions,emission,emiss,emissions,emissions,emiss
+en,climat,climate,climate,climat,climate,climate,climat
+en,climat,climate,climatic,climat,climate,climate,climat
+en,greenhous,greenhouse,greenhouse,greenhous,greenhouse,greenhouse,greenhous
+en,co2,co2,NA,NA,NA,NA,NA
+en,carbon,carbon,carbon,carbon,carbon,carbon,carbon
+en,carbon,carbon,low-carbon,low-carbon,low-carbon,low-carbon,low-carbon
+en,kyoto,kyoto,NA,NA,NA,NA,NA
+en,fossil,fossil,fossil,fossil,fossil,fossil,fossil
+bg,renew,renewable,възобновяеми,възобновяеми,възобновяеми,renewable,renew
+bg,emiss,emissions,емисии,емисии,емисии,emissions,emiss
+bg,emiss,emissions,емисиите,емисиите,емисиите,emissions,emiss
+bg,climat,climate,климата,климата,климата,climate,climat
+bg,greenhous,greenhouse,парникови,парникови,парникови,greenhouses,greenhous
+bg,co2,co2,NA,NA,NA,NA,NA
+bg,carbon,carbon,NA,NA,NA,NA,NA
+bg,kyoto,kyoto,NA,NA,NA,NA,NA
+bg,fossil,fossil,NA,NA,NA,NA,NA
+hr,renew,renewable,obnovljivih,obnovljivih,obnovljivih,renewable,renew
+hr,emiss,emissions,NA,NA,NA,NA,NA
+hr,climat,climate,NA,NA,NA,NA,NA
+hr,greenhous,greenhouse,NA,NA,NA,NA,NA
+hr,co2,co2,NA,NA,NA,NA,NA
+hr,carbon,carbon,NA,NA,NA,NA,NA
+hr,kyoto,kyoto,NA,NA,NA,NA,NA
+hr,fossil,fossil,NA,NA,NA,NA,NA
+cs,renew,renewable,obnovitelných,obnovitelných,obnovitelných,renewable,renew
+cs,emiss,emissions,emisí,emisí,emisí,emissions,emiss
+cs,emiss,emissions,emise,emis,emise,emission,emiss
+cs,climat,climate,klimatu,klimatu,klimatu,climate,climat
+cs,greenhous,greenhouse,skleníkových,skleníkových,skleníkových,greenhouse,greenhous
+cs,co2,co2,NA,NA,NA,NA,NA
+cs,carbon,carbon,NA,NA,NA,NA,NA
+cs,kyoto,kyoto,NA,NA,NA,NA,NA
+cs,fossil,fossil,NA,NA,NA,NA,NA
+et,renew,renewable,NA,NA,NA,NA,NA
+et,emiss,emissions,NA,NA,NA,NA,NA
+et,climat,climate,NA,NA,NA,NA,NA
+et,greenhous,greenhouse,NA,NA,NA,NA,NA
+et,co2,co2,NA,NA,NA,NA,NA
+et,carbon,carbon,NA,NA,NA,NA,NA
+et,kyoto,kyoto,NA,NA,NA,NA,NA
+et,fossil,fossil,NA,NA,NA,NA,NA
+hu,renew,renewable,megújuló,megújuló,megújuló,renewable,renew
+hu,renew,renewable,megújulókból,megújuló,megújuló,renewable,renew
+hu,emiss,emissions,NA,NA,NA,NA,NA
+hu,climat,climate,klímaváltozás,klímaváltozás,klímaváltozás,climate change,climate chang
+hu,climat,climate,éghajlatváltozást,éghajlatváltozás,éghajlatváltozás,climate change,climate chang
+hu,climat,climate,éghajlatváltozás,éghajlatváltozás,éghajlatváltozás,climate change,climate chang
+hu,climat,climate,éghajlatváltozáshoz,éghajlatváltozás,éghajlatváltozás,climate change,climate chang
+hu,climat,climate,éghajlatváltozással,éghajlatváltozás,éghajlatváltozás,climate change,climate chang
+hu,climat,climate,klímaváltozástól,klímaváltozás,klímaváltozás,climate change,climate chang
+hu,climat,climate,klímaváltozáshoz,klímaváltozás,klímaváltozás,climate change,climate chang
+hu,climat,climate,éghajlatváltozási,éghajlatváltozás,éghajlatváltozás,climate change,climate chang
+hu,climat,climate,klímaváltozásra,klímaváltozás,klímaváltozás,climate change,climate chang
+hu,greenhous,greenhouse,NA,NA,NA,NA,NA
+hu,co2,co2,NA,NA,NA,NA,NA
+hu,carbon,carbon,NA,NA,NA,NA,NA
+hu,kyoto,kyoto,NA,NA,NA,NA,NA
+hu,fossil,fossil,NA,NA,NA,NA,NA
+lv,renew,renewable,atjaunošanu,atjaunošanu,atjaunošanu,renewal,renew
+lv,renew,renewable,atjaunojamos,atjaunojamo,atjaunojamo,renewable,renew
+lv,renew,renewable,atjaunojamo,atjaunojamo,atjaunojamo,renewable,renew
+lv,renew,renewable,atjaunojamajiem,atjaunojamajiem,atjaunojamajiem,renewable,renew
+lv,renew,renewable,atjaunojami,atjaunojami,atjaunojami,renewable,renew
+lv,emiss,emissions,izmešus,izmešu,izmešus,emissions,emiss
+lv,climat,climate,NA,NA,NA,NA,NA
+lv,greenhous,greenhouse,NA,NA,NA,NA,NA
+lv,co2,co2,NA,NA,NA,NA,NA
+lv,carbon,carbon,NA,NA,NA,NA,NA
+lv,kyoto,kyoto,NA,NA,NA,NA,NA
+lv,fossil,fossil,NA,NA,NA,NA,NA
+lt,renew,renewable,atsinaujinančios,atsinaujin,atsinaujinančių,renewable,renew
+lt,renew,renewable,atsinaujinantys,atsinaujin,atsinaujinančių,renewable,renew
+lt,renew,renewable,atsinaujinančių,atsinaujin,atsinaujinančių,renewable,renew
+lt,renew,renewable,atsinaujinančiais,atsinaujin,atsinaujinančių,renewable,renew
+lt,renew,renewable,atsinaujinančią,atsinaujin,atsinaujinančių,renewable,renew
+lt,renew,renewable,atsinaujinančius,atsinaujin,atsinaujinančių,renewable,renew
+lt,renew,renewable,atsinaujinantis,atsinaujin,atsinaujinančių,renewable,renew
+lt,emiss,emissions,NA,NA,NA,NA,NA
+lt,climat,climate,klimato,klimat,klimato,climate,climat
+lt,greenhous,greenhouse,NA,NA,NA,NA,NA
+lt,co2,co2,NA,NA,NA,NA,NA
+lt,carbon,carbon,NA,NA,NA,NA,NA
+lt,kyoto,kyoto,NA,NA,NA,NA,NA
+lt,fossil,fossil,NA,NA,NA,NA,NA
+pl,renew,renewable,odnawialnych,odnawialnych,odnawialnych,renewable,renew
+pl,renew,renewable,odnawialnej,odnawialnej,odnawialnej,renewable,renew
+pl,emiss,emissions,emisji,emisji,emisji,emissions,emiss
+pl,climat,climate,klimatu,klimatu,klimatu,climate,climat
+pl,greenhous,greenhouse,NA,NA,NA,NA,NA
+pl,co2,co2,NA,NA,NA,NA,NA
+pl,carbon,carbon,NA,NA,NA,NA,NA
+pl,kyoto,kyoto,NA,NA,NA,NA,NA
+pl,fossil,fossil,NA,NA,NA,NA,NA
+ro,renew,renewable,regenerabile,regener,regenerabile,renewable,renew
+ro,emiss,emissions,emisii,emis,emisii,emissions,emiss
+ro,emiss,emissions,noxe,nox,noxe,emissions,emiss
+ro,emiss,emissions,emisiilor,emis,emisii,emissions,emiss
+ro,climat,climate,climatice,climat,climatice,climate,climat
+ro,climat,climate,clima,clim,clima,climate,climat
+ro,greenhous,greenhouse,seră,ser,seră,greenhouse,greenhous
+ro,co2,co2,NA,NA,NA,NA,NA
+ro,carbon,carbon,NA,NA,NA,NA,NA
+ro,kyoto,kyoto,NA,NA,NA,NA,NA
+ro,fossil,fossil,NA,NA,NA,NA,NA
+sk,renew,renewable,obnoviteľných,obnoviteľných,obnoviteľných,renewable,renew
+sk,emiss,emissions,emisií,emisií,emisií,emissions,emiss
+sk,climat,climate,NA,NA,NA,NA,NA
+sk,greenhous,greenhouse,NA,NA,NA,NA,NA
+sk,co2,co2,NA,NA,NA,NA,NA
+sk,carbon,carbon,NA,NA,NA,NA,NA
+sk,kyoto,kyoto,NA,NA,NA,NA,NA
+sk,fossil,fossil,NA,NA,NA,NA,NA
+sl,renew,renewable,obnovljivih,obnovljivih,obnovljivih,renewable,renew
+sl,emiss,emissions,emisij,emisij,emisij,emissions,emiss
+sl,emiss,emissions,emisije,emisij,emisij,emissions,emiss
+sl,climat,climate,podnebnim,podnebnim,podnebnim,climate,climat
+sl,climat,climate,podnebnih,podnebnih,podnebnih,climate,climat
+sl,climat,climate,podnebne,podnebn,podnebne,climate,climat
+sl,greenhous,greenhouse,toplogrednih,toplogrednih,toplogrednih,greenhouse,greenhous
+sl,co2,co2,NA,NA,NA,NA,NA
+sl,carbon,carbon,NA,NA,NA,NA,NA
+sl,kyoto,kyoto,NA,NA,NA,NA,NA
+sl,fossil,fossil,NA,NA,NA,NA,NA
